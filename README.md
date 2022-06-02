@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there, I'm Aristide - 👋
 
 <!--
 **niyongaboaristide17/niyongaboaristide17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
