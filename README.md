@@ -14,7 +14,9 @@
 - ⚡ Fun fact: **Don't ever confuse motion with progress**
 
 ### Blogs posts
-<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+- [DATA SCIENCE](https://dev.to/niyongaboaristide17/data-science-mge)
+<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
