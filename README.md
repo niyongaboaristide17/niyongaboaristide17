@@ -40,7 +40,3 @@
 ## streaks
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niyongaboaristide17&" alt="niyongaboaristide17" /></p>
 
-# Blog posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
