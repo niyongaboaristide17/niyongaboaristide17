@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ## Top languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niyongaboaristide17&layout=compact)](https://github.com/niyongaboaristide17/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niyongaboaristide17&layout=compact)](https://github.com/niyongaboaristide17/the-blog-yann)
 ## Description
 
 - 🌱 I’m currently learning both react and flutter
@@ -26,6 +26,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: **Don't ever confuse motion with progress**
 
 ## Git stats
-<img align="left" alt="niyongaboaristide's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=niyongaboaristide17&show_icons=true&hide_border=false" />
+![GIT STATS](https://github-readme-stats.vercel.app/api?username=niyongaboaristide17&show_icons=true&hide_border=false)
 
 
