@@ -15,6 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<summary>:zap: GitHub Stats</summary>
-<img align="left" alt="niyongaboaristide's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=niyongaboaristide17&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
+## Git stats
+<img align="left" alt="niyongaboaristide's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=niyongaboaristide17&show_icons=true&hide_border=false" />
+
+## Description
+
+- 🌱 I’m currently learning both react and flutter
+- 👯 I’m looking to collaborate with other content creators
+- 💬 Ask me about everything
+- 📫 How to reach me: **<niyongaboaristide17@gmail.com>**
+- ⚡ Fun fact: **Don't ever confuse motion with progress**
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niyongaboaristide17&layout=compact)](https://github.com/niyongaboaristide17/github-readme-stats)
