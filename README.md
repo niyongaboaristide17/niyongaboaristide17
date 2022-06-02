@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Top languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niyongaboaristide17&layout=compact)](https://github.com/niyongaboaristide17/github-readme-stats)
 ## Description
 
 - 🌱 I’m currently learning both react and flutter
@@ -25,4 +28,4 @@ Here are some ideas to get you started:
 ## Git stats
 <img align="left" alt="niyongaboaristide's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=niyongaboaristide17&show_icons=true&hide_border=false" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niyongaboaristide17&layout=compact)](https://github.com/niyongaboaristide17/github-readme-stats)
+
