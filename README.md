@@ -21,7 +21,6 @@
     - ⚡ Fun fact: **Don't ever confuse motion with progress**
 
     ### Blogs posts
-    <!-- BLOG-POST-LIST:START -->
 - [Reusable Input Field in vue.js](https://dev.to/niyongaboaristide17/reusable-input-field-in-vuejs-dfj)
 - [DATA SCIENCE](https://dev.to/niyongaboaristide17/data-science-mge)
 
