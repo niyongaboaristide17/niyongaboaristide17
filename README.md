@@ -24,7 +24,7 @@
     <!-- BLOG-POST-LIST:START -->
 - [Reusable Input Field in vue.js](https://dev.to/niyongaboaristide17/reusable-input-field-in-vuejs-dfj)
 - [DATA SCIENCE](https://dev.to/niyongaboaristide17/data-science-mge)
-<!-- BLOG-POST-LIST:END -->
+
 
     <h3 align="left">Connect with me:</h3>
     <p align="left">
